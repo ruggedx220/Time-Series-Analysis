@@ -17,8 +17,7 @@ Data Collection and Preparation: Gather historical stock price data for Apple In
 
 # Exploratory Data Analysis (EDA)
 Conduct EDA to understand the basic statistics, trends, and patterns in the historical stock price data. Visualize the data to gain insights.
-![Price Movement](https://github.com/ruggedx220/Time-Series-Analysis/blob/main/Screenshot%202023-09-29%20130455.png
-)
+![Price Movement](https://github.com/ruggedx220/Time-Series-Analysis/blob/main/Screenshot%202023-09-29%20130455.png)
 # Feature Engineering 
 Create relevant features from the historical data that can be used for time series forecasting, such as moving averages, relative strength indicators, and more.
 # Data Splitting
