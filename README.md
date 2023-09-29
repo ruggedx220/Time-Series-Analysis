@@ -28,7 +28,7 @@ Evaluate the model's performance using appropriate metrics, such as accuracy, pr
 Stock Price Prediction: Apply the trained model to predict future stock prices of Apple Inc.
 # Visualization
 Visualize the predicted stock prices alongside actual prices to assess the model's accuracy and performance.
- ![Alt text](Screenshot 2023-09-29 130455.png)
+ ![Model Performance](https://github.com/ruggedx220/Time-Series-Analysis/blob/main/Screenshot%202023-09-29%20130455.png)
 
 
 # Conclusion and Recommendations
