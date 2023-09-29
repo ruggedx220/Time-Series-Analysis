@@ -12,11 +12,13 @@ Low: The lowest price during the trading day.
 Close: The closing price of AAPL stock on that day.
 Volume: The trading volume (number of shares traded) on that day.
 # Objectives
-Data Collection and Preparation: Gather historical stock price data for Apple Inc. from a reliable source and prepare the dataset for analysis.
+Data Collection and Preparation: Gather historical stock price data for Apple Inc over the frame of one year. 
  
 
 # Exploratory Data Analysis (EDA)
 Conduct EDA to understand the basic statistics, trends, and patterns in the historical stock price data. Visualize the data to gain insights.
+![Price Movement](https://github.com/ruggedx220/Time-Series-Analysis/blob/main/Screenshot%202023-09-29%20130455.png
+)
 # Feature Engineering 
 Create relevant features from the historical data that can be used for time series forecasting, such as moving averages, relative strength indicators, and more.
 # Data Splitting
